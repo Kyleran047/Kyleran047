@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyleran047
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I currently learned python
 - 💞️ I’m looking to collaborate on Front-end development projects.
 - 📫 How to reach me kyleran047@gmail.com
 - 😄 Pronouns: he/him
